@@ -1,3 +1,11 @@
+jetbackwards Fork
+=================
+
+This is a fork of the ChickenBones Enderstorage Plugin, with the aim of adding additional useful object.
+
+Initial Target: Ender Chest Minecart
+
+
 EnderStorage
 ============
 EnderStorage is a mod that offers a means to store your items in The END, causing them to be everywhere and nowhere at the same time. All EnderStorage makes use of the magic of colors to link storage with its little piece of The END. Any EnderStorage with the same color code share inventory (even across dimensions). Currently there are three types of storage, EnderChest, EnderPouch, and EnderTank.
@@ -11,8 +19,4 @@ EnderTanks are a stationary type of EnderStorage. You can use dye on the wool pa
 Current recommended and latest builds can be found at http://chickenbones.net/Pages/links.html
 
 Current maven: http://chickenbones.net/maven/
-
-Join us on IRC:
-- Server: Esper.net
-- Channel: #ChickenBones
 
